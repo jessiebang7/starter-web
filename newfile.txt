@@ -1,3 +1,0 @@
-So, a way to find out if your file is being tracked by Git,
-
-is to use the "git ls-files"

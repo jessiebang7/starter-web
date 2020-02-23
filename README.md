@@ -1,4 +1,4 @@
-# Starter Web Project
+	# Starter Web Project
 
 This is a simple website project for
 showing how to use Git and Github together.
@@ -22,3 +22,7 @@ can be on any web server or even local
 file system.
 
 ## How To Contribute
+
+### Copyright
+
+2014Git.Training.
